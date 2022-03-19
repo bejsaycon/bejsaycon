@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bejsaycon
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning the foundation of frontend web development
-- 💞️ I’m looking to collaborate on my thesis in Electronics Engineering.
+- 💞️ I’m looking to live peacefully.
 - 📫 How to reach me: bejsaycon.github.io
 
 <!---
