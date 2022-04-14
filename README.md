@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bejsaycon
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning the foundation of frontend web development
-- 💞️ I’m looking to live peacefully.
+- 👀 I’m interested in building web applications.
+- 🌱 I’m currently learning backend web development.
+- 💞️ I’m looking to work remotely with MERN stack projects.
 - 📫 How to reach me: bejsaycon.github.io
 
 <!---
