@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @bejsaycon
-- 👀 I’m interested in building web applications.
-- 🌱 I’m currently focused on React-v17, Typescript, Node-js, Express-js, MongoDB, and solving problems in Test-Driven Development discipline.
-- 💞️ I’m looking to work remotely with MERN stack projects.
-- 📫 How to reach me: bjsaycon@gmail.com
+- 🌱 I’m currently focused on React-v17, Typescript, Node-js, Express-js, MongoDB, Koa.js, Nest.js and solving problems in Test-Driven Development discipline.
+- 💞️ I’m currently on a full-time remote work. 
+- 📫 How to reach me: bryan@beautitag.com
 
 <!---
 bejsaycon/bejsaycon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
