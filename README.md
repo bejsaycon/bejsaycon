@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bejsaycon
-- 🌱 I’m currently focused on React.js, Typescript, Node-js, Express-js, MongoDB, Koa.js, Nest.js.
-- 💞️ I’m currently on a full-time remote work. 
+-  Hi, I’m @bejsaycon
+-  I’m currently focused on React.js, Typescript, Node-js, Express-js, MongoDB, Koa.js, Nest.js.
+-  I’m currently a student in a University open for remote developer opportunities. 
 - 📫 How to reach me: bjsaycon@gmail.com
 
 <!---
