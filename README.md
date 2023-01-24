@@ -1,7 +1,4 @@
--  Hi, I’m @bejsaycon
--  I’m currently focused on React.js, Typescript, Node-js, Express-js, MongoDB, Koa.js, Nest.js.
--  I’m currently a student in a University open for remote developer opportunities. 
-- 📫 How to reach me: bjsaycon@gmail.com
+-  Hi, I’m @bejsaycon currently working as backend software engineer at Red Core Solutions dedicated to Singlife Philippines. View my mini projects in my GitHub. For more inquiries, mail me at bjsaycon@gmail.com 
 
 <!---
 bejsaycon/bejsaycon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
